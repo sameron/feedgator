@@ -7,14 +7,11 @@
   <a href="https://github.com/Hyraze/feedgator/blob/master/LICENSE" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
-  <a href="https://twitter.com/Hanishrao" target="_blank">
-    <img alt="Twitter: Hanishrao" src="https://img.shields.io/twitter/follow/Hanishrao.svg?style=social" />
-  </a>
 </p>
 
 > A minimalistic Gatsby blog rendering your favourite RSS feeds
 
-### 🏠 [Homepage](https://github.com/Hyraze/feedgator#readme)
+### 🏠 [Homepage](https://github.com/sameron/feedgator#readme)
 
 ### ✨ [Demo](https://feedgator.netlify.app/)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/0480f39a-5ec9-4b07-a658-bb25f8233a08/deploy-status)](https://app.netlify.com/sites/feedgator/deploys)
@@ -34,15 +31,6 @@
 5. **Build.** -  `gatsby build` to create a optimized production build
 5. **Serve.** -  `gatsby serve` to start up a webserver, and open the application in your default browser
 
-
-## Author
-
-👤 **Hanish Rao**
-
-* Website: https://hanishrao.netlify.com/
-* Twitter: [@Hanishrao](https://twitter.com/Hanishrao)
-* Github: [@Hyraze](https://github.com/Hyraze)
-* LinkedIn: [@hanishrao](https://linkedin.com/in/hanishrao)
 
 ## 🤝 Contributing
 
